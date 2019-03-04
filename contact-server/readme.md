@@ -7,6 +7,7 @@
 ```
 DB_CONNECTION=sqlite
 ```
+#### Run
 
 ```
 php artisan migrate:refresh --seed
