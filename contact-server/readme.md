@@ -3,13 +3,11 @@
 ## Project setup
 
 ### Migrate
-#### Rename .env.example to .env
+#### Rename .env.example to .env with sqlite configuration
 ```
 DB_CONNECTION=sqlite
 ```
 
-
-### Migrate
 ```
 php artisan migrate:refresh --seed
 ```

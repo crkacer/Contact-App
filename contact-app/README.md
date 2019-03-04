@@ -1,5 +1,10 @@
 # contact-app
 
+## Production Demo
+```
+/dist/index.html
+```
+
 ## Project setup
 ```
 yarn install
